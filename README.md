@@ -1,5 +1,5 @@
 # Gloria Jin Dissertation 2026
 
-Data and code for the Gloria Jin's Dissertation for partial fulfilment of Imperial College London's Living Planet with Ecology, Evolution and Conservation Master's of Science degree.
+Data and code for the Gloria Jin's dissertation for partial fulfilment of Imperial College London's Living Planet with Ecology, Evolution and Conservation Master's of Science degree.
 
-The folder  `gj_code` provides the markdown and downloads for all necessary RDS files. The markdown `gj_code.md` is for viewing in GitHub, whilst the folder `downloadme` contains the file `gj_code.Rmd` and RDS files key for running the code in RStudio. The .csv files titled "x" provide the raw acoustic analysis performed on LUSCINIA. Raw acoustic data is available by request.
+To run the code, download the folder [downloadme](https://github.com/torondo/jin-dissertation-2026/tree/main/downloadme). This contains the file `CODE.R` and all data necessary for the code to run.
