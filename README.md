@@ -1,4 +1,4 @@
-# Gloria Jin Dissertation 2026
+# Dissertation 2026
 
 Data and code for the Gloria Jin's dissertation for partial fulfilment of Imperial College London's Living Planet with Ecology, Evolution and Conservation Master's of Science degree.
 
